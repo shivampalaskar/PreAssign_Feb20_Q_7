@@ -1,1 +1,2 @@
 # PreAssign_Feb20_Q_7
+7. Implement doubly linked list of bank accounts. Each accont have information including id, type, balance and account holder. The account holder details includes name, address & contact details. Write an menu-driven program to implement add first, add last, display all (forward), display all (backword), find by account id, find by account holder name, delete all functionalities
